@@ -1,8 +1,6 @@
 # Student Dropout & Academic Success Prediction
 
-A machine learning project that predicts whether a student is likely to **drop out** or be **enrolled/successful**, using a trained **CatBoost** model. The project includes a **Streamlit** web app for interactive predictions, probability visualization, and exploratory data analysis.
-
----
+A machine learning project that predicts whether a student is likely to **drop out** or be **enrolled/successful**, using a trained **CatBoost** model. The project includes a **Streamlit** web app for interactive predictions, probability visualization, and exploratory data analysis
 
 ## Features
 
