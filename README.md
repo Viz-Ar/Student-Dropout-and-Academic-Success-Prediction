@@ -10,6 +10,7 @@ A machine learning project that predicts whether a student is likely to **drop o
 - ✅ Dataset inspection and EDA (distributions, correlations, statistics)
 - ✅ Saves and loads preprocessing artifacts (scaler + label encoder)
 
+---
 
 ## Project Structure
 
@@ -96,3 +97,8 @@ Key libraries:
   - label encoder
   - trained CatBoost model
 
+---
+
+## License
+
+Add a license of your choice (e.g., MIT).
